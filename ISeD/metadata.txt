@@ -1,0 +1,12 @@
+[general]
+name=ISeD
+qgisMinimumVersion=3.0
+description=ISeD orodja za QGIS: priprava grafike (izdelava sloja, kopiranje parcel/stavb, obrezovanje, buffer, združevanje), nastavitev simbologije ter izvoz v SHP+ZIP. | ISeD tools for QGIS: layer preparation, copying parcels/buildings, clipping, buffer & union, symbology presets, and SHP+ZIP export.
+version=1.2
+author=Grega Žorž
+email=gregazorz@gmail.com
+about=Vtičnik ISeD ponuja hitrejša orodja za delo s podatki GURS in slojem ISeD (priprava grafike, simbolika, izvoz). Ni uradno orodje ISeD. | The ISeD plugin provides quick tools for working with GURS data and the ISeD layer (graphics preparation, symbology, export). Not an official ISeD tool.
+category=Vector
+experimental=False
+deprecated=False
+tags=ISeD,GURS,parcele,stavbe,OPN,simbolika,izvoz,buffer,union,clip
